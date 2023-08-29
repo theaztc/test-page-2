@@ -1,0 +1,33 @@
+html {
+	font-size: 10px;
+	font-family: "Courier New";
+}
+
+body {
+	width: 600px;
+	margin: 0 auto;
+	background-color: #ffffff;
+	padding: 0 20px 20px 20px;
+	border: 2px solid black;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	text-shadow: 1px 1px 0px black;
+	font-family: "Verdana";
+}
+
+h2 {
+	text-align: center;
+	color: gray;
+}
+
+.cool {
+	font-size: 14px;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
